@@ -1,5 +1,6 @@
 #!/bin/csh
-
+#4 文字目を切り出す
+#echo "0_1152_1_2_41264.dat" | cut -b 4
 
 ###if 9 ok else ng##
 
